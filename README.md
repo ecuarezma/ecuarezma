@@ -2,7 +2,8 @@
 ### Welcome to my github page!!
 I'm currently having fun using javascript to exercise creative projects, while mastering the intricacies that come with programming. 
 
-See some of my works in progress on my [website](https://www.edgarcuarezma.com)
+See my works on my [website](https://www.edgarcuarezma.com)
+Stay and explore my repositories for works in progress!
 
 <!--
 **ecuarezma/ecuarezma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

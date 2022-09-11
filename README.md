@@ -3,6 +3,7 @@
 I'm currently having fun using javascript to exercise creative projects, while mastering the intricacies that come with programming. 
 
 See my works on my [website](https://www.edgarcuarezma.com)
+
 Stay and explore my repositories for works in progress!
 
 <!--

@@ -1,4 +1,4 @@
-## Edgar Cuarezma here!
+## Edgar Cuarezma here!  :tada:
 ### Welcome to my github page!!
 I'm currently having fun using javascript to exercise creative projects, while mastering the intricacies that come with programming. 
 
